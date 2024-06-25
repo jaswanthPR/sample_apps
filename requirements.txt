@@ -1,0 +1,6 @@
+phi
+streamlit
+pdfplumber
+scikit-learn
+pandas
+
